@@ -3,16 +3,16 @@
 // ----------------------
 const jobs = [
   {
-    role: "Frontend Developer",
-    description: "Build user interfaces with HTML, CSS, JS.",
+    role: "F",
+    description: ".",
   },
   {
-    role: "Backend Developer",
-    description: "Manage databases and server logic.",
+    role: "",
+    description: ".",
   },
   {
-    role: "UI/UX Designer",
-    description: "Design modern and user-friendly interfaces.",
+    role: "",
+    description: ".",
   },
 ];
 
